@@ -10,6 +10,7 @@ ruby '2.6.5'
   guard-rspec
   guard-rubocop
   guard-rubybeautify
+  pry
   rantly
   rspec
   rubocop

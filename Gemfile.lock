@@ -83,6 +83,7 @@ DEPENDENCIES
   guard-rspec
   guard-rubocop
   guard-rubybeautify
+  pry
   rantly
   rspec
   rubocop
